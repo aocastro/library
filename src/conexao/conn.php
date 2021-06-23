@@ -1,11 +1,6 @@
 <?php
 
     // Declarar as variáveis necessárias para gerar a minha conexão com o banco de dados ....
-    // $hostmane = "fdb22.awardspace.net";
-    // $dbname = "2874836_library";
-    // $username = "2874836_library";
-    // $password = "Et3cL1br@ry";
-   
     $hostmane = "sql101.epizy.com";
     $dbname = "epiz_28839334_library";
     $username = "epiz_28839334";
